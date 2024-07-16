@@ -38,7 +38,7 @@ To obtain a local copy of the project, please follow these steps:
 
 1. Clone the repository using the following command:
     ```bash
-    git clone [repository URL]
+    git clone [[repository URL](https://github.com/Subhasis19/Calculator/tree/main/Calculator/new)]
     ```
 2. Navigate to the project directory using the following command:
     ```bash
